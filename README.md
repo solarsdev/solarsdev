@@ -4,7 +4,11 @@
 
 Hi! my name is Sangkook Lee from 🇰🇷Korea currently living in Tokyo, 🇯🇵Japan. My major is 💻**Computer Engineering** and I like build software stuff. I have project expierence basically using **web related languages** (such as javascript, node.js etc) but also have expierence **Network Architect**.
 
-I really like working with people. Because synergy occurs while working with each other in areas that I don't know well. For example, I don't know much about sales or marketing, but I like to think about what functions and how to add in terms of making certain product. so I want to develop professionalism in my field and collaborate with experts in various fields to make good thing.
+I like to work with other people. Because I know that there is a field where each person can perform the best ability, and that field is connected and synergies occur.
+
+For example, I don't know much about marketing or sales, but I like to analyze customer requirements and think about making better products. So with a good salesperson, I understand that I can deliver my good product to my customers in a more valuable way.
+
+I always want to be in an environment where I can develop myself. Growing up with people around you is considered the best value. I like to share my knowledge because I like to convey it to others, and I also know that I learn from it. I think it's my specialty to explain to others in an easy way.
 
 I'm interested in **Full-Stack Engineering, Cloud based Development** expierence. and learning for it. thanks for read.
 
