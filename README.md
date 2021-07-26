@@ -16,7 +16,8 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **:office: Work** | 2012. 3 ~ 2016. 4 | System Engineer | **DK Solutions (Seoul, Korea)** |
+| **:office: Work** | 2012. 3 ~ 2016. 4 | System Engineer | **DK 
+tions (Seoul, Korea)** |
 | **:mortar_board: Student** | 2016. 8 ~ 2017. 7 | SMART Cloud IT Master 32th | **KITA (Seoul, Korea)** |
 | **:office: Work** | 2017. 10 ~ | SW Engineer | **Vision Inc. (Tokyo, Japan)** |
 
@@ -38,7 +39,7 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 
 #### Certificate
 
-![N1](https://img.shields.io/badge/JLPT:%20N1-%23E34F27.svg?&style=for-square) ![N1](https://img.shields.io/badge/Solutions%20Architect%20Associate-%23FF9900.svg?&logo=amazon-aws&style=for-square)
+![N1](https://img.shields.io/badge/JLPT:%20N1-%23E34F27.svg?&style=for-square) ![SAA](https://img.shields.io/badge/Solutions%20Architect%20Associate-%23FF9900.svg?&logo=amazon-aws&style=for-square) ![DVA](https://img.shields.io/badge/Developer%20Associate-%23FF9900.svg?&logo=amazon-aws&style=for-square) ![SOA](https://img.shields.io/badge/SysOps%20Administrator%20Associate-%23FF9900.svg?&logo=amazon-aws&style=for-square)
 
 ## Project
 
