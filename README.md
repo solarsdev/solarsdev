@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SANGKOOK%20LEE)
+![header](https://capsule-render.vercel.app/api?type=slice&animation=blink&color=timeAuto&height=200&section=header&text=SANGKOOK%20LEE)
 
 ## About me
 
@@ -8,17 +8,15 @@ I like to work with other people. Because I know that there is a field where eac
 
 For example, I don't know much about marketing or sales, but I like to analyze customer requirements and think about making better products. So with a good salesperson, I understand that I can deliver my good product to my customers in a more valuable way.
 
-I always want to be in an environment where I can develop myself. Growing up with people around you is considered the best value. I like to share my knowledge because I like to convey it to others, and I also know that I learn from it. I think it's my specialty to explain to others in an easy way.
-
-I'm interested in **Full-Stack Engineering, Cloud based Development** expierence. and learning for it. thanks for read.
+I'm interested in **Full-Stack Engineering, Cloud based Development** expierence. thanks for read.
 
 #### Career
 
-| **Type** | **Date** | **Contents** | **Organization** |
-|:--------:|:--------:|:--------:|:--------:|
-| **:office: Work** | 2012. 3 ~ 2016. 4 | System Engineer | **DK Solutions (Seoul, Korea)** |
-| **:mortar_board: Student** | 2016. 8 ~ 2017. 7 | SMART Cloud IT Master 32th | **KITA (Seoul, Korea)** |
-| **:office: Work** | 2017. 10 ~ | SW Engineer | **Vision Inc. (Tokyo, Japan)** |
+|          **Type**          |     **Date**      |        **Contents**        |        **Organization**         |
+| :------------------------: | :---------------: | :------------------------: | :-----------------------------: |
+|  **:office: Freelancer**   | 2015. 4 ~ 2016. 7 |      System Engineer       | **DK Solutions (Seoul, Korea)** |
+| **:mortar_board: Student** | 2016. 8 ~ 2017. 7 | SMART Cloud IT Master 32th |     **KITA (Seoul, Korea)**     |
+|     **:office: Work**      |    2017. 10 ~     |        SW Engineer         | **Vision Inc. (Tokyo, Japan)**  |
 
 #### What I've used at least once for build something
 
@@ -30,11 +28,11 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 
 #### What I currently learning
 
-![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-square&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-square&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform%20-%237B42BC.svg?&style=for-square&logo=terraform&logoColor=white)
 
 #### What I interested in
 
-![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-square&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-square&logo=typescript&logoColor=white)
 
 #### Certificate
 
@@ -44,7 +42,9 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 
 ### [MeTube](https://github.com/solarsdev/metube-2021)
 
-#### ユーチューブを真似して作成したウェブサイト（web制作勉強）
+#### ユーチューブを真似して作成したウェブサイト（web 制作勉強）
 
 - 実装期間：2021. 3 ~
-- Stacks：![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=for-square&logo=node.js&logoColor=white) ![Express.JS](https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=for-square) ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-square&logo=webpack&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-square&logo=javascript&logoColor=%23F7DF1E) ![Babel](https://img.shields.io/badge/Babel%20-%23323330.svg?&style=for-square&logo=babel&logoColor=%23F7DF1E) ![Pug](https://img.shields.io/badge/Pug%20-%23A86454.svg?&style=for-square&logo=pug&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-square&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=for-square&logo=nginx&logoColor=white)
+- Stacks：![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=for-square&logo=node.js&logoColor=white) ![Express.JS](https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=for-square) ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-square&logo=webpack&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-square&logo=javascript&logoColor=%23F7DF1E) ![Babel](https://img.shields.io/badge/Babel%20-%23323330.svg?&style=for-square&logo=babel&logoColor=%23F7DF1E) ![Pug](https://img.shields.io/badge/Pug%20-%23A86454.svg?&style=for-square&logo=pug&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-square&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=for-square&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white)
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=200&section=footer)
