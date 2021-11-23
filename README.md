@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&animation=blink&color=timeAuto&height=200&section=header&text=SANGKOOK%20LEE)
+![header](https://capsule-render.vercel.app/api?type=slice&animation=blink&color=timeAuto&height=150&section=header&text=SANGKOOK%20LEE)
 
 ## About me
 
