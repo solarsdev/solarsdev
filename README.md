@@ -38,6 +38,15 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 
 ![N1](https://img.shields.io/badge/JLPT:%20N1-%23E34F27.svg?&style=for-square) ![SAA](https://img.shields.io/badge/Solutions%20Architect%20Associate-%23FF9900.svg?&logo=amazon-aws&style=for-square) ![DVA](https://img.shields.io/badge/Developer%20Associate-%23FF9900.svg?&logo=amazon-aws&style=for-square) ![SOA](https://img.shields.io/badge/SysOps%20Administrator%20Associate-%23FF9900.svg?&logo=amazon-aws&style=for-square)
 
+## TIL (Today I Learned)
+
+### [TIL](https://github.com/solarsdev/TIL)
+
+#### 1 日 1Commit ❤️
+
+- 実装期間：2021. 11. 09 ~
+- Contents：![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-square&logo=css3&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform%20-%237B42BC.svg?&style=for-square&logo=terraform&logoColor=white)
+
 ## Project
 
 ### [MeTube](https://github.com/solarsdev/metube-2021)
@@ -47,4 +56,4 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 - 実装期間：2021. 3 ~
 - Stacks：![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=for-square&logo=node.js&logoColor=white) ![Express.JS](https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=for-square) ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-square&logo=webpack&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-square&logo=javascript&logoColor=%23F7DF1E) ![Babel](https://img.shields.io/badge/Babel%20-%23323330.svg?&style=for-square&logo=babel&logoColor=%23F7DF1E) ![Pug](https://img.shields.io/badge/Pug%20-%23A86454.svg?&style=for-square&logo=pug&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-square&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=for-square&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white)
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=100&section=footer)
