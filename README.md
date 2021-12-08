@@ -44,8 +44,8 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 
 #### 1 日 1Commit ❤️
 
-- 実装期間：2021. 11. 09 ~
-- Contents：![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-square&logo=css3&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform%20-%237B42BC.svg?&style=for-square&logo=terraform&logoColor=white)
+- 実装期間：2021. 11. 9 ~
+- Contents：![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-square&logo=react&logoColor=%2361DAFB) ![Terraform](https://img.shields.io/badge/Terraform%20-%237B42BC.svg?&style=for-square&logo=terraform&logoColor=white)
 
 ## Project
 
