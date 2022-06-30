@@ -75,6 +75,6 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 #### AWS GuardDuty から検知した対象ホストを Lambda、Ansible の連携で自動遮断
 
 - 実装期間：2022. 7
-- Stacks：![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=for-square&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform%20-%237B42BC.svg?&style=for-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible%20-%23000000.svg?&style=for-square&logo=ansible&logoColor=white) ![Amazon Linux](https://img.shields.io/badge/Amazon%20Linux%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white)
+- Stacks：![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=for-square&logo=node.js&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform%20-%237B42BC.svg?&style=for-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible%20-%23000000.svg?&style=for-square&logo=ansible&logoColor=white) ![GuardDuty](https://img.shields.io/badge/GuardDuty%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![Amazon Linux](https://img.shields.io/badge/Amazon%20Linux%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white)
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&height=100&section=footer)
