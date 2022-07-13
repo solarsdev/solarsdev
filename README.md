@@ -42,11 +42,11 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 
 #### What I currently learning
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare%20-%23F38020.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-square&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-square&logo=react&logoColor=%2361DAFB) ![Create React App](https://img.shields.io/badge/Create%20React%20App%20-%2309D3AC.svg?&style=for-square&logo=createreactapp&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase%20-%23FF8A65.svg?&style=for-square&logo=firebase&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-square&logo=python&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20-%23F38020.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-square&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-square&logo=react&logoColor=%2361DAFB) ![Create React App](https://img.shields.io/badge/Create%20React%20App%20-%2309D3AC.svg?&style=for-square&logo=createreactapp&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase%20-%23FF8A65.svg?&style=for-square&logo=firebase&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-square&logo=go&logoColor=white)
 
 #### What I interested in
 
-![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-square&logo=go&logoColor=white)
 
 #### Certificate
 
