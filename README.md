@@ -14,7 +14,7 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 
 |          **Type**          |     **Date**      |        **Contents**        |        **Organization**         |
 | :------------------------: | :---------------: | :------------------------: | :-----------------------------: |
-|  **:office: Freelancer**   | 2015. 4 ~ 2016. 7 |      System Engineer       | **DK Solutions (Seoul, Korea)** |
+| **:computer: Freelancer**  | 2015. 4 ~ 2016. 7 |      System Engineer       | **DK Solutions (Seoul, Korea)** |
 | **:mortar_board: Student** | 2016. 8 ~ 2017. 7 | SMART Cloud IT Master 32th |     **KITA (Seoul, Korea)**     |
 |     **:office: Work**      |    2017. 10 ~     |        SW Engineer         | **Vision Inc. (Tokyo, Japan)**  |
 
