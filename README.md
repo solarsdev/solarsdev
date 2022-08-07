@@ -22,7 +22,7 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 
 ###### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-square&logo=react&logoColor=%2361DAFB) ![Create React App](https://img.shields.io/badge/Create%20React%20App%20-%2309D3AC.svg?&style=for-square&logo=createreactapp&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase%20-%23FF8A65.svg?&style=for-square&logo=firebase&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-square&logo=react&logoColor=%2361DAFB) ![Create React App](https://img.shields.io/badge/Create%20React%20App%20-%2309D3AC.svg?&style=for-square&logo=createreactapp&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase%20-%23FF8A65.svg?&style=for-square&logo=firebase&logoColor=white) ![TestCafe](https://img.shields.io/badge/TestCafe%20-%2334B0DE.svg?&style=for-square&logo=testcafe&logoColor=white)
 
 ###### Backend
 
@@ -34,7 +34,7 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 
 ###### Infrastructure (CI/CD/Server)
 
-![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare%20-%23F38020.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible%20-%23000000.svg?&style=for-square&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white) ![Ubunu](https://img.shields.io/badge/Ubuntu-E95420?style=for-square&logo=ubuntu&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-square&logo=centos&logoColor=white) ![Amazon Linux](https://img.shields.io/badge/Amazon%20Linux%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=for-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=for-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare%20-%23F38020.svg?&style=for-square&logo=cloudflare&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible%20-%23000000.svg?&style=for-square&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white) ![Ubunu](https://img.shields.io/badge/Ubuntu-E95420?style=for-square&logo=ubuntu&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-square&logo=centos&logoColor=white) ![Amazon Linux](https://img.shields.io/badge/Amazon%20Linux%20-%23FF9900.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=for-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?&style=for-square&logo=nginx&logoColor=white)
 
 ###### Tools
 
@@ -42,11 +42,11 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 
 #### What I currently learning
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare%20-%23F38020.svg?&style=for-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-square&logo=go&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20-%23F38020.svg?&style=for-square&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white) ![TestCafe](https://img.shields.io/badge/TestCafe%20-%2334B0DE.svg?&style=for-square&logo=testcafe&logoColor=white)
 
 #### What I interested in
 
-![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white)
 
 #### Certificate
 
