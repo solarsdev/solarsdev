@@ -38,15 +38,15 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 
 ###### Tools
 
-![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=for-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-square&logo=github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?&style=for-square&logo=slack&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-square&logo=visual-studio-code&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-square&logo=jira&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-square&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=for-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-square&logo=github&logoColor=white) ![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?&style=for-square&logo=slack&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-square&logo=visual-studio-code&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-square&logo=jira&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-square&logo=npm&logoColor=white)
 
 #### What I currently learning
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare%20-%23F38020.svg?&style=for-square&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white) ![TestCafe](https://img.shields.io/badge/TestCafe%20-%2334B0DE.svg?&style=for-square&logo=testcafe&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-square&logo=Amazon%20DynamoDB&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20-%23F38020.svg?&style=for-square&logo=cloudflare&logoColor=white) ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white) ![TestCafe](https://img.shields.io/badge/TestCafe%20-%2334B0DE.svg?&style=for-square&logo=testcafe&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-square&logo=Amazon%20DynamoDB&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-square&logo=kubernetes&logoColor=white)
 
 #### What I interested in
 
-![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=for-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-square&logo=kubernetes&logoColor=white)
 
 #### Certificate
 
