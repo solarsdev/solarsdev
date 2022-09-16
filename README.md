@@ -77,6 +77,13 @@ I'm interested in **Full-Stack Engineering, Cloud based Development** expierence
 - 実装期間：2021. 12
 - Stacks：![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=for-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-square&logo=react&logoColor=%2361DAFB) ![Create React App](https://img.shields.io/badge/Create%20React%20App%20-%2309D3AC.svg?&style=for-square&logo=createreactapp&logoColor=white)
 
+### [Carrot Harvest Game](https://github.com/solarsdev/javascript-carrot-harvest-game)
+
+#### JavaScript(ES6)で作っている簡単な WEB ゲーム。Class, Builder pattern の適用など
+
+- 実装期間：2022. 1 ~ 2022. 5
+- Stacks：![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-square&logo=javascript&logoColor=%23F7DF1E)
+
 ### [React Youtube Clone](https://github.com/solarsdev/react-youtube-clone)
 
 #### React, JavaScript でフロントエンドのみ作成、バックエンドは Youtube の Data APIs を利用
